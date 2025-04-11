@@ -18,16 +18,6 @@ sections:
               brightness: 0.7
           position: right
           color: '#666'
-      - title: Есть вопросы или советы?
-        content: 'Поделитесь ими с нами!'
-        align: left
-        background:
-          image:
-            filename: contact.jpg
-            filters:
-              brightness: 0.7
-          position: center
-          color: '#555'
       - title: Мы стараемся для вас!
         content: 'Поставьте 86!'
         align: right
@@ -43,6 +33,16 @@ sections:
           icon_pack: fas
           text: Join Us
           url: ../contact/
+      - title: Есть вопросы или советы?
+        content: 'Поделитесь ими с нами!'
+        align: left
+        background:
+          image:
+            filename: contact.jpg
+            filters:
+              brightness: 0.7
+          position: center
+          color: '#555'
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
       slide_height: ''
