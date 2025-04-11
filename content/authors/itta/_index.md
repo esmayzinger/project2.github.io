@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Леснухин Даниил
+title: Понамарев Алексей
 
 # Full Name (for SEO)
-first_name: Даниил
-last_name: Леснухин
+first_name: Алексей
+last_name: Понамарев
 
 # Is this the primary user of the site?
 superuser: true
@@ -21,9 +21,9 @@ organizations:
 bio: крутой челик даня лес
 
 interests:
-  - Быть крутым
-  - Программировать на GO
-  - Учиться работать отдыхать
+  - Не ходить на пары
+  - Программировать
+  - Много говорить правды
 
 education:
   courses:
@@ -39,10 +39,10 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:1132221553@pfur.ru'
+    link: 'mailto:1132222847@pfur.ru'
   - icon: github
     icon_pack: fab
-    link: https://github.com/dalesnoy
+    link: https://github.com/amponamarevrudn
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to static/files/cv.pdf and uncomment the lines below.
 # - icon: cv
@@ -61,5 +61,5 @@ user_groups:
   - Команда
 ---
 
-Леснухин Даниил Дмитриевич - студент 
-НПИбд-02-22. Программирует на Go. Активист
+20 лет, студент активист, 
+backend разработчик основной язык python.
