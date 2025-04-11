@@ -18,7 +18,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: крутой челик даня лес
+bio: крутой челик антон
 
 interests:
   - Водить машину
