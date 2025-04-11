@@ -22,16 +22,15 @@ publishDate: '2017-01-01T00:00:00Z'
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ['paper-conference']
+publication_types: ['Электрический пробой: Этап 1 - Теория']
 
-# Publication name and optional abbreviated publication name.
-publication: In *Wowchemy Conference*
-publication_short: In *ICW*
-
-abstract: Электрический пробой – это явление, при котором диэлектрик теряет свои изолирующие свойства под воздействием сильного электрического поля. Оно играет ключевую роль в высоковольтной технике, электронике и молниезащите.
-
+abstract: Электрический пробой – это явление, при котором диэлектрик теряет свои изолирующие свойства под воздействием сильного электрического поля. Оно играет ключевую роль в высоковольтной технике, электронике и молниезащите.Примеры электрического пробоя в технике и природе
+- Молнии – атмосферный пробой воздуха.
+- Газовый разряд – используется в лампах, разрядниках и плазменных генераторах.
+- Разрушение изоляции в кабелях и электрооборудовании.
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: В ходе работы были рассмотрены основные механизмы электрического пробоя, определены ключевые параметры, влияющие на его критическое напряжение. Полученные знания позволяют разрабатывать более эффективные электроизо- ляционные материалы и защитные системы.
+
 
 tags: []
 
