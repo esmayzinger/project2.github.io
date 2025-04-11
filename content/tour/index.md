@@ -18,8 +18,8 @@ sections:
               brightness: 0.7
           position: right
           color: '#666'
-      - title: Мы стараемся для вас!
-        content: 'Поставьте 86!'
+      - title: Есть вопросы или советы?
+        content: 'Поделитесь с нами!'
         align: right
         background:
           image:
@@ -33,8 +33,8 @@ sections:
           icon_pack: fas
           text: Join Us
           url: ../contact/
-      - title: Есть вопросы или советы?
-        content: 'Поделитесь ими с нами!'
+      - title: Мы стараемся для вас!
+        content: 'Поставьте 86!'
         align: left
         background:
           image:
