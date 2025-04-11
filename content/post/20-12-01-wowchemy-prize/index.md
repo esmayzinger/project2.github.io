@@ -1,7 +1,7 @@
 ---
 title: Этап 1
 date: 2020-12-01
-url : https://plvideo.ru/watch?v=DqsQpCLDzJQP
+url : plvideo.ru/watch?v=DqsQpCLDzJQP
 ---
 
 Электрический пробой 
