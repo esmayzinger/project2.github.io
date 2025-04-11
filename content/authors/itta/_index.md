@@ -29,7 +29,7 @@ education:
   courses:
     - course: Прикладная информатика
       institution: Российский университет дружбы народов
-      year: 2012
+      year: 2026
 
 
 # Social/Academic Networking

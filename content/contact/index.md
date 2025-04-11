@@ -7,25 +7,24 @@ type: landing
 sections:
   - block: contact
     content:
-      title: Contact
+      title: Контакты
       text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.
-      email: test@example.org
-      phone: 888 888 88 88
+        Обращайтесь по любым вопросам!
+      email: sci@pfur.ru
+      phone: 8 (495) 952-26-44
       address:
-        street: 450 Serra Mall
-        city: Stanford
-        region: CA
+        street: Орджоникидзе
+        city: Москва
+        region: МО
         postcode: '94305'
-        country: United States
-        country_code: US
+        country: Российская федерация
+        country_code: РФ
       coordinates:
         latitude: '37.4275'
         longitude: '-122.1697'
-      directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+      directions: Заходите к нам - мы везде
       office_hours:
-        - 'Monday 10:00 to 13:00'
-        - 'Wednesday 09:00 to 10:00'
+        - ' С понедельника по субботу с 08:00 до 22:00'
       appointment_url: 'https://calendly.com'
       #contact_links:
       #  - icon: comments
